@@ -234,6 +234,6 @@ git push --set-upstream origin netudy-first-commit
 # remote: Create a pull request for 'netudy-first-commit' on GitHub by visiting:
 # remote:      https://github.com/netudy/ubuntu-school/pull/new/netudy-first-commit
 # remote:
-# To github.com:JensenEducationKista/ubuntu-school.git
+# To github.com:netudy/ubuntu-school.git
 #  * [new branch]      netudy-first-commit -> netudy-first-commit
 # branch 'netudy-first-commit' set up to track 'origin/netudy-first-commit'.
