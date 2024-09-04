@@ -78,7 +78,7 @@ docker-compose up -d
 docker ps
 
 # Access phpLDAPadmin through your web browser:
-"10.0.0.28:8080" # Replace with your ubuntu server ip address
+"10.49.90.12:8080" # Replace with your ubuntu server ip address
 
 # Log in to phpLDAPadmin using the following credentials:
 "cn=admin,dc=example,dc=org"
