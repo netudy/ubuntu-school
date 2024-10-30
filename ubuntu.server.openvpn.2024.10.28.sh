@@ -6,7 +6,7 @@
 mkdir ~/docker/openvpn && cd ~/docker/openvpn
 
 # Create the Docker Compose file for OpenVPN
-cat <<EOF > ~/docker/openvpn/docker-compose.yml
+cat <<"EOF" > ~/docker/openvpn/docker-compose.yml
 services:
   openvpn:
     cap_add:
