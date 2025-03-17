@@ -163,7 +163,7 @@ mkdir src
 cd src
 
 # - Clone repo
-git clone https://github.com/netudy/ubuntu-school.git
+git clone git@github.com:netudy/ubuntu-school.git
 # Cloning into 'src'...
 # The authenticity of host 'github.com (140.82.121.3)' can't be established.
 # ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
