@@ -51,7 +51,7 @@ sudo apt update
 # [...]
 
 # - install python
-sudo apt install python3-pip
+sudo apt install python3-pip -y
 
 ##########################################################
 # install password generator and ssh
